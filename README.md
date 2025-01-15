@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seyhan Emre Gorucu
-- 👀 I’m full-time reservoir simulation scientist and a part-time computer science student with specialization in Machine Learning.
+
 - 📫 You can reach me from segorucu@gmail.com. A lot of the repos are private, but I can share them with you :blush:.
 
 <!---
